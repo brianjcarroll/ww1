@@ -1,0 +1,112 @@
+{
+  "war" : {
+    "countries" : [
+      {
+        "name" : String,
+        "id" : Number,
+        "team" : String,
+        "totals" : {
+          "casualties" : Number,
+          "shells" : Number,
+          "aircraft" : Number,
+          "bullets" : Number,
+          "soldiers" : Number,
+          "cost" : {
+            "usd": Number
+          }
+        },
+        "soldier" : {},
+        "leaders" : [
+          {}
+        ],
+        "technology" : {
+          "offsensive" : {
+            "weapons" : {
+              "machineGuns" : [
+                {}
+              ],
+              "submachineGuns" : [
+                {}
+              ],
+              "rifles" : [
+                {}
+              ],
+              "handguns" : [
+                {}
+              ],
+              "bayonets" : [
+                {}
+              ],
+              "swords" : [
+                {}
+              ],
+              "knives" : [
+                {}
+              ],
+              "grenades" : [
+                {}
+              ],
+              "mortars" : [
+                {}
+              ],
+              "shotguns" : [
+                {}
+              ],
+              "flamethrowers" : [
+                {}
+              ],
+              "special" : [
+                {}
+              ]
+            },
+            "vehicles" : {
+              "airplanes" : [
+                {}
+              ],
+              "tanks" : [
+                {}
+              ],
+              "boats" : [
+                {}
+              ],
+              "cars" : [
+                {}
+              ]
+            },
+            "artillery" : [
+              {}
+            ]
+          },
+          "defensive" : {
+            "trenches" : [
+              {}
+            ],
+            "barbedWire" : [
+              {}
+            ],
+            "communications" : [
+              {}
+            ],
+            "armor" : {
+              "gasMasks" : [
+                {}
+              ],
+              "helmets" : [
+                {}
+              ],
+              "body" : [
+                {}
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "battles" : [
+      {}
+    ],
+    "totals" : {
+      
+    }
+  }
+}
