@@ -103,10 +103,32 @@
       }
     ],
     "battles" : [
-      {}
+      {
+        "name" : "Battle of Verdun",
+        "id" : 0,
+        "timeFrame" : {
+          "startDate" : {
+            "month" : "",
+            "year" : "",
+            "day" : ""
+          },
+          "endDate" : {
+            "month" : "",
+            "year" : "",
+            "day" : ""
+          }
+        },
+        "countries" : [
+          {
+            "id" : "",
+            "name" : "",
+            "casualties" : Number
+          }
+        ]
+      }
     ],
     "totals" : {
-      
+
     }
   }
 }
